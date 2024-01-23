@@ -1,4 +1,4 @@
-const chave = "b6b7f0ef6af1ffac97bf502dd1629bde"
+const chave = ""
 
 function cliqueiNoBotao(){
     let cidade = document.querySelector(".input-cidade").value
