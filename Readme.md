@@ -1,5 +1,7 @@
 Projeto de previsão do tempo com busca de localização e integração API.
+
 Em assets/js/script.js adicione sua chave da API Open Weather entre "" na variável.
+
 
 Project of weather forecast with location search and API integration.
 
